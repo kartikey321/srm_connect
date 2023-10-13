@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "466442830596",
+    "project_id": "srm-connect-b9eb0",
+    "storage_bucket": "srm-connect-b9eb0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:466442830596:android:ce2e15b70a518ca3978651",
+        "android_client_info": {
+          "package_name": "com.vedu_vada.srm_connect"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8ye83xJ13SFfc48KS3dfg6V9_UWx0l1I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
